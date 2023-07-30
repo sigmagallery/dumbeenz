@@ -1,15 +1,16 @@
-title: 
-description: 
+title: DUMBeenz
+description: DUMBeenz are playful and unique NFTs exclusively on the Ergo Platform
 image: https://ipfs.io/ipfs/
 mintAddresses:
-  - 
+  - 9f3vpHaNYhTfWzQnFkZnbhiCC3v2knW8PTGneLYwsMaqkJQpXWB
+  - 9fyZRgjR7hi6s6DdEa5gD94fXuMRV3DrhAwqfgevnW7qiPEoosR
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/dumbeenzNFT
     icon: fa-brands fa-twitter fa-fw
   - label: Discord
-    url: https://discord.com/invite/
+    url: https://discord.com/invite/DqrYyKS3HE
     icon: fa-brands fa-discord fa-fw
   - label: Website
-    url: 
+    url: https://www.dumbeenz.com/
     icon: fa-solid fa-globe fa-fw
