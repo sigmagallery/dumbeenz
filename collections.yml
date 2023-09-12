@@ -1,4 +1,7 @@
 collections:
-- label: DUMBeenz
-  data: dumbeenz.yml
+- label: DUMBeenz S1
+  data: dumbeenzS1.yml
   image: https://img2.sigma.gallery/dumbeenz/dumbeenz/677c69a6c660ddcd2fc6ca767c409ef3dd470a2e81378e738a9c33e653391de2.webp
+- label: DUMBeenz S2
+  data: dumbeenzS2.yml
+  image: https://bafybeib4azu3gjh5a3cj2ul6mqxxq64nshfyi5hpidfxhqrxnhsk3iq42m.ipfs.nftstorage.link/434.png
