@@ -1,4 +1,9 @@
 nfts:
+- tokenId: 72ee4afd33d85a37d2d2720a5621679e978e2e2296cd47fc233581d73fda6e3d
+  name: 'DUMBeenz #426'
+  description: 'DUMBeenz Season Two - BADBeenz: 300 unique & hand-crafted collectibles'
+  imageUrl: >-
+    https://bafybeib4azu3gjh5a3cj2ul6mqxxq64nshfyi5hpidfxhqrxnhsk3iq42m.ipfs.nftstorage.link/426.png
 - tokenId: 7df675a8b3f28a48467734fd750d5512b4337a80415ab83b705b965358b11cc5
   name: 'DUMBeenz #434'
   description: 'DUMBeenz Season Two - BADBeenz: 300 unique & hand-crafted collectibles'
@@ -19,6 +24,11 @@ nfts:
   description: 'DUMBeenz Season Two - BADBeenz: 300 unique & hand-crafted collectibles'
   imageUrl: >-
     https://bafybeib4azu3gjh5a3cj2ul6mqxxq64nshfyi5hpidfxhqrxnhsk3iq42m.ipfs.nftstorage.link/520.png
+- tokenId: 5c6a71d015f44d49af62c65d2e3879b1b83585da6bbd18525f8208818205ffec
+  name: 'DUMBeenz #535'
+  description: 'DUMBeenz Season Two - BADBeenz: 300 unique & hand-crafted collectibles'
+  imageUrl: >-
+    https://bafybeib4azu3gjh5a3cj2ul6mqxxq64nshfyi5hpidfxhqrxnhsk3iq42m.ipfs.nftstorage.link/535.png
 - tokenId: 49153038de89163fc4574ad298c15b442693b845bd58ca2af2be4ff5df0ea7df
   name: 'DUMBeenz #564'
   description: 'DUMBeenz Season Two - BADBeenz: 300 unique & hand-crafted collectibles'
@@ -29,6 +39,11 @@ nfts:
   description: 'DUMBeenz Season Two - BADBeenz: 300 unique & hand-crafted collectibles'
   imageUrl: >-
     https://bafybeib4azu3gjh5a3cj2ul6mqxxq64nshfyi5hpidfxhqrxnhsk3iq42m.ipfs.nftstorage.link/630.png
+- tokenId: 59c66a6261fcf4947bff4fd0c593b2c0d9f52f17974a803dc637975bfd48af33
+  name: 'DUMBeenz #638'
+  description: 'DUMBeenz Season Two - BADBeenz: 300 unique & hand-crafted collectibles'
+  imageUrl: >-
+    https://bafybeib4azu3gjh5a3cj2ul6mqxxq64nshfyi5hpidfxhqrxnhsk3iq42m.ipfs.nftstorage.link/638.png
 - tokenId: 3a02aa638af03ea4c3215e1c8bd56a037bbb8b5cf11bd9885327d4f57a87e0de
   name: 'DUMBeenz #669'
   description: 'DUMBeenz Season Two - BADBeenz: 300 unique & hand-crafted collectibles'
